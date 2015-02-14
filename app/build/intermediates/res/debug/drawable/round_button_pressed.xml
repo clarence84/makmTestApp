@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="@color/blu_bottoni"/>
+    <stroke android:width="1dp" android:color="@android:color/white" />
+</shape><!-- From: file:/home/makm/Scrivania/AppProvaAndroid/app/src/main/res/drawable/round_button_pressed.xml -->

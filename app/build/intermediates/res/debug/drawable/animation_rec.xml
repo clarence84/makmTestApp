@@ -1,0 +1,5 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/round_button" android:duration="300" />
+    <item android:drawable="@drawable/round_button_pressed" android:duration="300" />
+</animation-list><!-- From: file:/home/makm/Scrivania/AppProvaAndroid/app/src/main/res/drawable/animation_rec.xml -->

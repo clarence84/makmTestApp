@@ -1,0 +1,6 @@
+/home/makm/Scrivania/AppProvaAndroid/app/build/intermediates/classes/debug
+/home/makm/Scrivania/AppProvaAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-7b583ce01b2b1a0c8de406d5b5ea7bec1d549ae8.jar
+/home/makm/Scrivania/AppProvaAndroid/app/build/intermediates/pre-dexed/debug/classes-834f9df3ce4f15d9400578250c1cab772ee674dc.jar
+/home/makm/Scrivania/AppProvaAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c1946c01ae64372ea22880c0e11888830879672d.jar
+/home/makm/Scrivania/AppProvaAndroid/app/build/intermediates/pre-dexed/debug/classes-994951a017e28c0eaac5d512985305929f0bb7f8.jar
+/home/makm/Scrivania/AppProvaAndroid/app/build/intermediates/pre-dexed/debug/classes-c7d8e5b4f63eb8e89337df69fe58854d278ffeab.jar
